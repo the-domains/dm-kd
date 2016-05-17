@@ -2,6 +2,7 @@ name: DM-KD
 favicon: null
 layout_spectrum: 0.5392093963455409
 typography_spectrum: 0.9394479393959045
+title: DM-KD
 cta:
   domain: null
   bucket: null
