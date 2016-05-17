@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DM-KD]]></title>
         <description><![CDATA[DM-KD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dm-kd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 20:17:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 20:33:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dm-kd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OUR EP COMING SOON]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d03f3032-bd14-4be8-ae3b-d113157c8a7c.jpg">]]></description>
+            <link>https://thegrid.ai/dm-kd/our-ep-coming-soon/index.html</link>
+            <guid isPermaLink="false">4251c75c-6cc9-4d83-8d78-588dd8a71fee</guid>
+            <pubDate>Tue, 17 May 2016 20:32:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MEETING BORIS BLANK AND HAKAN LIDBO IN BERLIN]]></title>
             <description><![CDATA[<p>MEETING BORIS BLANK AND HAKAN LIDBO IN BERLIN</p>]]></description>
-            <link>undefinedmeeting-boris-blank-and-hakan-lidbo-in-berlin/index.html</link>
+            <link>https://thegrid.ai/dm-kd/meeting-boris-blank-and-hakan-lidbo-in-berlin/index.html</link>
             <guid isPermaLink="false">5826252e-c1f0-4ce4-bfab-471969f84b48</guid>
             <pubDate>Tue, 17 May 2016 20:16:45 GMT</pubDate>
         </item>
