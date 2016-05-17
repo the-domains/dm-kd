@@ -1,7 +1,7 @@
 name: DM-KD
 favicon: null
-layout_spectrum: 0.5392093963455409
-typography_spectrum: 0.9394479393959045
+layout_spectrum: 1
+typography_spectrum: 0.43411
 title: DM-KD
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.21306869643740356
+    - '#000000'
+    - '#fcfbf9'
+    - '#25211e'
+    - '#615851'
+    - '#b3a396'
+  brandStrength: 0.5625
   lightness: 0.7027117814868689
   saturation: 0.699118128977716
-  rhythmicContrast: 0.18157756282016635
+  rhythmicContrast: 0.75
 purpose: []
