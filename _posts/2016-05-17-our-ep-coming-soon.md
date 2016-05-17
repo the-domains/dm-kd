@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'https://vimeo.com/128919172'
-datePublished: '2016-05-17T20:32:34.452Z'
-dateModified: '2016-05-17T20:32:23.792Z'
+description: ''
+datePublished: '2016-05-17T20:43:19.286Z'
+dateModified: '2016-05-17T20:39:15.945Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-17-our-ep-coming-soon.md
 authors: []
 publisher:
   name: null
@@ -16,10 +17,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-17-our-ep-coming-soon.md
 url: our-ep-coming-soon/index.html
 _type: Article
 
 ---
-https://vimeo.com/128919172
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d03f3032-bd14-4be8-ae3b-d113157c8a7c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fee8d5a3-b1d0-4750-a385-8cc21eb808e6.jpg)
+
+> # https://vimeo.com/128919172
